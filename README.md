@@ -1,9 +1,9 @@
-###Manipulação de Árvore Binária em Java
+### Manipulação de Árvore Binária em Java
 
-##📌 Descrição
+## 📌 Descrição
 Projeto em Java para manipulação de uma árvore binária de busca. Permite inserção, remoção, busca de elementos, verificação de características estruturais e impressão em diferentes ordens.
 
-##🔧 Funcionalidades
+## 🔧 Funcionalidades
 Inserção e remoção de elementos.
 
 Impressão em ordem, pré-ordem e pós-ordem.
@@ -22,12 +22,12 @@ Grau de um nó específico.
 
 Pesquisa de elementos.
 
-##🧱 Estrutura
+## 🧱 Estrutura
 Node: representa cada nó da árvore.
 
 BinaryTree: implementa os métodos de manipulação.
 
-##✅ Exemplos de Testes
+## ✅ Exemplos de Testes
 Inserção: 50, 30, 70, 20, 40, 60, 80
 
 Remoção: 20
@@ -38,7 +38,7 @@ Grau do nó 30: retorna 2
 
 Altura esperada: 2
 
-##📚 Referências
+## 📚 Referências
 Oracle Java Documentation
 
 GeeksforGeeks - Binary Tree Data Structure
